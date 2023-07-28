@@ -73,12 +73,12 @@ bash /root/xpanel.sh OR bash xpanel.sh
 برای نصب کافیست دستور زیر را وارد کنید<br>
 	بعد از بروزرسانی حتما لینک مقابل را با ip و پورت پنل یکبار در مروگر باز کنید  <b>ip:port/reinstall</b><br>
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/randomguy-on-internet/XPanel-SSH-User-Management/master/install.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/sisu-sisu/XPanel-SSH-User-Management/master/install.sh --ipv4)
 ```
 
 حل مشکل عدم ارتباط  تماس صوتی و تصویری در اپلیکشن
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/randomguy-on-internet/XPanel-SSH-User-Management/master/fix-call.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/sisu-sisu/XPanel-SSH-User-Management/master/fix-call.sh --ipv4)
 ```
 دستور بالا را در ترمینال وارد کنید سپس برای UDPGW پورت جدید تعریف کنید بهتر است به جای پورت 7300 پورت 7301 یا 7302 را تنظیم کنید
 <br>
@@ -87,11 +87,11 @@ bash <(curl -Ls https://raw.githubusercontent.com/randomguy-on-internet/XPanel-S
 ## بهینه سازی سرور
 نصب و حذف تنظیمات با دستور زیر 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/randomguy-on-internet/XPanel-SSH-User-Management/master/TCP-Tweaker --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/sisu-sisu/XPanel-SSH-User-Management/master/TCP-Tweaker --ipv4)
 ```
 ## فعال سازی SSL
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/randomguy-on-internet/XPanel-SSH-User-Management/master/ssl.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/sisu-sisu/XPanel-SSH-User-Management/master/ssl.sh --ipv4)
 ```
 با استفاده از دستور بالا می توانید SSL را روی پنل نصب نمائید. به نکات زیر توجه کنید <br>
 1- حتما قبل از نصب SSL پنل را بروز کنید<br>
