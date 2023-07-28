@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d50d8e18-a0fd-450a-835d-0b5aea5e7d6b" name="Changes" comment="Fix Version 3.7.2 Laravel Package">
+      <change afterPath="$PROJECT_DIR$/Web Panel/app/storage/backup/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Panel/app/storage/backup/XPanel-2023-07-15---01-53-29.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Alireza &lt;127631174+alirezad07@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QDDq6sr2lyuyL2QzDq5eB757Jf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Web Panel/app" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/WebPanel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\XPANEL\X-Panel-SSH-User-Management\Web Panel\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\XPANEL\X-Panel-SSH-User-Management\Web Panel\app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d50d8e18-a0fd-450a-835d-0b5aea5e7d6b" name="Changes" comment="" />
+      <created>1684879446141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684879446141</updated>
+      <workItem from="1684879447595" duration="5392000" />
+      <workItem from="1684953996179" duration="7251000" />
+      <workItem from="1685213214947" duration="590000" />
+      <workItem from="1685471577221" duration="1915000" />
+      <workItem from="1685656452023" duration="561000" />
+      <workItem from="1685660101165" duration="1168000" />
+      <workItem from="1685862743562" duration="592000" />
+      <workItem from="1685994314765" duration="23702000" />
+      <workItem from="2064859571877" duration="18883000" />
+      <workItem from="1686390666138" duration="5579000" />
+      <workItem from="1686400937947" duration="13755000" />
+      <workItem from="1686728134874" duration="7530000" />
+      <workItem from="1686827378337" duration="591000" />
+      <workItem from="1686908341776" duration="34384000" />
+      <workItem from="1687039579749" duration="1331000" />
+      <workItem from="1687253508273" duration="6597000" />
+      <workItem from="1687300536212" duration="1981000" />
+      <workItem from="1687330983910" duration="22526000" />
+      <workItem from="1687433106873" duration="298000" />
+      <workItem from="1687468524940" duration="9356000" />
+      <workItem from="1687528107128" duration="2424000" />
+      <workItem from="1687599714300" duration="6975000" />
+      <workItem from="1687725963543" duration="13580000" />
+      <workItem from="1687818080763" duration="9209000" />
+      <workItem from="1687892729317" duration="18253000" />
+      <workItem from="1687988864979" duration="14504000" />
+      <workItem from="1688074770714" duration="13150000" />
+      <workItem from="1688156544041" duration="35239000" />
+      <workItem from="1688332222822" duration="19511000" />
+      <workItem from="1688361929092" duration="1729000" />
+      <workItem from="1688369677320" duration="2555000" />
+      <workItem from="1688424501097" duration="15113000" />
+      <workItem from="1688512799090" duration="16792000" />
+      <workItem from="1688603104123" duration="63677000" />
+      <workItem from="1688799649140" duration="25109000" />
+      <workItem from="1688835338342" duration="38505000" />
+      <workItem from="1689019529532" duration="30074000" />
+      <workItem from="1689097544527" duration="27430000" />
+      <workItem from="1689181651055" duration="24832000" />
+      <workItem from="1689342214460" duration="3102000" />
+      <workItem from="1689407901794" duration="20695000" />
+      <workItem from="1689458518835" duration="18614000" />
+      <workItem from="1689516448544" duration="7678000" />
+      <workItem from="1689572704215" duration="30095000" />
+      <workItem from="1689752035282" duration="24620000" />
+    </task>
+    <task id="LOCAL-00062" summary="Fix Version 3.4">
+      <created>1687603561641</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1687603561641</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Fix Version 3.4">
+      <created>1687603755166</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1687603755166</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Fix Version 3.4">
+      <created>1687604931796</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1687604931796</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Fix Version 3.4">
+      <created>1687605155063</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1687605155063</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Fix Version 3.4">
+      <created>1687726688486</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1687726688486</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Fix Version 3.4">
+      <created>1687726978805</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1687726978805</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Fix Version 3.4">
+      <created>1688619604631</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1688619604631</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Fix Version 3.5">
+      <created>1688624202160</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1688624202160</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Fix Version 3.5">
+      <created>1688624482740</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1688624482740</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Fix Version 3.5">
+      <created>1688626717198</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1688626717198</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Fix Version 3.5">
+      <created>1688626776883</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1688626776883</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Fix Version 3.5">
+      <created>1688626837256</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1688626837256</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Fix Version 3.5">
+      <created>1688627037895</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1688627037895</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Fix Version 3.5">
+      <created>1688636803226</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1688636803226</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Fix Version 3.5">
+      <created>1688637148001</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1688637148002</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Fix Version 3.5">
+      <created>1688638683901</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1688638683901</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Fix Version 3.6">
+      <created>1688817520748</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1688817520748</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Fix Version 3.6">
+      <created>1688824118771</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1688824118771</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Fix Version 3.6">
+      <created>1688824730438</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1688824730438</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Fix Version 3.6">
+      <created>1688825541383</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1688825541383</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Fix Version 3.6">
+      <created>1688826305064</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1688826305064</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Fix Version 3.6">
+      <created>1688837190909</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1688837190909</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Fix Version 3.6">
+      <created>1688839351648</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1688839351648</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Fix Version 3.6">
+      <created>1688841459523</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1688841459523</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Fix Version 3.6">
+      <created>1688841505528</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1688841505528</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Fix Version 3.6">
+      <created>1688842486975</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1688842486975</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Fix Version 3.6">
+      <created>1688842938830</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1688842938830</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Fix Version 3.6">
+      <created>1688854934247</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1688854934247</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Fix Version 3.6">
+      <created>1688856390190</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1688856390190</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Fix Version 3.6">
+      <created>1688857689828</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1688857689828</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Fix Version 3.6">
+      <created>1688876286058</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1688876286058</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Fix Version 3.6">
+      <created>1688876504047</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1688876504047</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Fix Version 3.7 Laravel Package">
+      <created>1689582900545</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1689582900545</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Fix Version 3.7 Laravel Package">
+      <created>1689583152975</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1689583152975</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Fix Version 3.7 Laravel Package">
+      <created>1689583289236</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1689583289236</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Fix Version 3.7 Laravel Package">
+      <created>1689583313144</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1689583313144</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Fix Version 3.7 Laravel Package">
+      <created>1689583427424</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1689583427424</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Fix Version 3.7 Laravel Package">
+      <created>1689584295426</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1689584295426</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Fix Version 3.7 Laravel Package">
+      <created>1689588237221</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1689588237221</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Fix Version 3.7 Laravel Package">
+      <created>1689588469611</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1689588469611</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Fix Version 3.7 Laravel Package">
+      <created>1689593589612</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1689593589612</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Fix Version 3.7 Laravel Package">
+      <created>1689593922100</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1689593922100</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Fix Version 3.7 Laravel Package">
+      <created>1689610011671</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1689610011671</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Fix Version 3.7 Laravel Package">
+      <created>1689623965121</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1689623965131</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Fix Version 3.7 Laravel Package">
+      <created>1689624069854</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1689624069854</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Fix Version 3.7.2 Laravel Package">
+      <created>1689773323901</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1689773323902</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Fix Version 3.7.2 Laravel Package">
+      <created>1689773412624</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1689773412624</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Fix Version 3.7.2 Laravel Package">
+      <created>1689800666072</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1689800666072</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Fix Version 3.7.2 Laravel Package">
+      <created>1689800733867</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1689800733867</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADD web panel open source" />
+    <MESSAGE value="fix bug" />
+    <MESSAGE value="Fix Alert New Version" />
+    <MESSAGE value="Fix New Version 3.2" />
+    <MESSAGE value="Fix BUG Version 3.2" />
+    <MESSAGE value="Fix Version 3.3" />
+    <MESSAGE value="Fix Version 3.4" />
+    <MESSAGE value="Fix Version 3.5" />
+    <MESSAGE value="Fix Version 3.6" />
+    <MESSAGE value="Fix Version 3.7 Laravel Package" />
+    <MESSAGE value="Fix Version 3.7.2 Laravel Package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Version 3.7.2 Laravel Package" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>remoteDeploymentFS://&lt;147320f3-c08e-4d32-8305-306c9f0c6c67&gt;/html/app/app/Http/Controllers/ApiController.php</url>
+          <line>298</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\ApiController" />
+            <option name="methodName" value="renewal_user" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
